@@ -5,5 +5,13 @@ items:
   contract: CDI
   location: Ile-de-France
   description: "Dans une démarche de développement de l'activité Big Data chez les clients grands comptes de Davidson en Ile de France, du secteur de l'énergie, de la finance ou des télécommunications, Davidson recherche, un ingénieur Data scientist H/F pour travailler sur des problématiques à forte valeur ajoutée. Vous prenez en charges les taches suivantes : Penser l’architecture de la solution Big Data transverse à l’entreprise Mettre en place la solution Big Data de bout en bout Penser et développer les algorithmes en rapport avec les demandes métiers	ENVIRONNEMENT TECHNIQUE : R, Python, Spark"
+  url : http://www.amplement.fr/jobs/ingenieur-data-scientist-h-f/55cb5c09b7d04
 
-...
+- title: Data Scientist(e) Expérimenté(e) - H/F
+  company: Creative Data
+  contract: CDI
+  location: 72 Rue de la République, 76140 Le Petit-Quevilly
+  description: "Nous recherchons un(e) data scientist(e) expérimenté(e) pour rejoindre notre équipe service. Vous travaillerez au sein d'une équipe pluridisciplinaire sur la réalisation de projets innovants.Vous aurez un rôle d'accompagnement, de mentoring et d'expertise au sein de nos projets. Votre mission est de concevoir avec l'équipe des algorithmes de prédiction, classification et d'analyse de données non structurées.Vous aurez la possibilité de collaborer avec les laboratoires de recherche sur des projets ou pour échanger entre pairs."
+  url : https://www.chooseyourboss.com/candidates/offers/data-scientist-e-experimente-e-h-f
+
+  ...
