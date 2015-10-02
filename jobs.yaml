@@ -4,14 +4,136 @@ items:
   company: DAVIDSON
   contract: CDI
   location: Ile-de-France
-  description: "Dans une d�marche de d�veloppement de l'activit� Big Data chez les clients grands comptes de Davidson en Ile de France, du secteur de l'�nergie, de la finance ou des t�l�communications, Davidson recherche, un ing�nieur Data scientist H/F pour travailler sur des probl�matiques � forte valeur ajout�e. Vous prenez en charges les taches suivantes : Penser l�architecture de la solution Big Data transverse � l�entreprise Mettre en place la solution Big Data de bout en bout Penser et d�velopper les algorithmes en rapport avec les demandes m�tiers	ENVIRONNEMENT TECHNIQUE : R, Python, Spark"
+  description: "Dans une démarche de développement de l'activité Big Data chez les clients grands comptes de Davidson en Ile de France, du secteur de l'énergie, de la finance ou des télécommunications, Davidson recherche, un ingénieur Data scientist H/F pour travailler sur des problématiques à forte valeur ajoutée. Vous prenez en charges les taches suivantes : Penser l’architecture de la solution Big Data transverse à l’entreprise Mettre en place la solution Big Data de bout en bout Penser et développer les algorithmes en rapport avec les demandes métiers	ENVIRONNEMENT TECHNIQUE : R, Python, Spark"
   url : http://www.amplement.fr/jobs/ingenieur-data-scientist-h-f/55cb5c09b7d04
 
-- title: Data Scientist(e) Exp�riment�(e) - H/F
+- title: Data Scientist(e) Expérimenté(e) - H/F
   company: Creative Data
   contract: CDI
-  location: 72 Rue de la R�publique, 76140 Le Petit-Quevilly
-  description: "Nous recherchons un(e) data scientist(e) exp�riment�(e) pour rejoindre notre �quipe service. Vous travaillerez au sein d'une �quipe pluridisciplinaire sur la r�alisation de projets innovants.Vous aurez un r�le d'accompagnement, de mentoring et d'expertise au sein de nos projets. Votre mission est de concevoir avec l'�quipe des algorithmes de pr�diction, classification et d'analyse de donn�es non structur�es.Vous aurez la possibilit� de collaborer avec les laboratoires de recherche sur des projets ou pour �changer entre pairs."
+  location: 72 Rue de la République, 76140 Le Petit-Quevilly
+  description: "Nous recherchons un(e) data scientist(e) expérimenté(e) pour rejoindre notre équipe service. Vous travaillerez au sein d'une équipe pluridisciplinaire sur la réalisation de projets innovants.Vous aurez un rôle d'accompagnement, de mentoring et d'expertise au sein de nos projets. Votre mission est de concevoir avec l'équipe des algorithmes de prédiction, classification et d'analyse de données non structurées.Vous aurez la possibilité de collaborer avec les laboratoires de recherche sur des projets ou pour échanger entre pairs."
   url : https://www.chooseyourboss.com/candidates/offers/data-scientist-e-experimente-e-h-f
 
-  ...
+- title: Data Analyst - H/F
+  company: ioSquare
+  contract: CDI
+  salary: 35000
+  location: 68 rue d'Hauteville 75010 Paris
+  description: > 
+    En charge d'un portefeuille de clients, vous aurez pour responsabilité d'accompagner et de suivre le 
+    déploiement de nos solutions. Pour cela, vous devrez comprendre les données métier, les analyser à l'aide de nos outils, 
+    et utiliser ces informations pour la mise en œuvre de recommandations et de plans d'action.
+  url: https://www.chooseyourboss.com/candidates/offers/data-analyst-h-f?utm_campaign=annonces&utm_medium=agregateur&utm_source=indeed&utm_content=prem_ind
+
+- title: Data Mining Analyst
+  company: Customer Value
+  location: Paris, France
+  description: >
+    Deezer is very advanced in using the vast amount of data it generates to improve the service to the customers and
+    create an awesome, very personalized experience. A state of the art Hadoop plate form has been developed to process 
+    that wealth of data. 
+    Streaming services (like Deezer) are a revolution in the music industry as, for the first time, the success of an artist 
+    can be analyzed even before it starts selling albums (on iTunes for instance). This unique situation creates a thirst 
+    for data that is unparalleled in the music industry history. As a consequence, Deezer also heavily invests in new 
+    tools (Tableau, SAS Server) to make sure the data fuels absolutely any decision making process, either for Deezer, 
+    for our partners (Carriers like Orange in France) or record companies (like Universal / Sony / Warner).
+    The data mining team has a double role of
+    - Structuring / modeling data in a data warehouse to make data available to everyone inside the company and outside 
+    (carriers / record companies). For the moment, only few data marts have been created so far. It is really the beginning 
+    of the adventure!
+    - Analyzing deeply the data to answer all the questions related to artist performance / subscriber base behavior / 
+    campaign performance / carrier contracts performance / public relations and increase Deezer efficiency in the market
+    
+- title: H/F Data Analyst
+  company: Sept Lieues
+  contract: CDI
+  salary: 45000
+  location: Paris, France
+  description: >
+    Sous la responsabilités du directeur commercial, vous serez amené à collaborer au quotidien avec les équipes commerciales , de développement informatique ainsi qu'avec le management.
+    Vous utiliserez les techniques statistiques et les outils informatiques spécialisés afin d'organiser, de synthétiser et de traduire les informations dont l'entreprise à besoin pour faciliter les prises de décision.
+    - Vous accompagnez les équipes commerciales pour concevoir de nouvelles propositions ou analyser les projets déjà lancés 
+    - Vous conseillez les équipes marketing basé sur vos analyses
+    - Vous assurez la qualités et la fiabilité des données 
+    - Vous effectuez des reporting adaptés à vos interlocuteurs
+
+- title: Data Analyst RTB H/F
+  company: Twenga
+  contract: CDI
+  location: Paris 2e, France
+  description: >
+    C’est avec cette ambition que Twenga a récemment élargie son offre en développant un DSP interne afin d’optimiser les 
+    campagnes de milliers d’annonceurs inscrits. Twenga propose ainsi une solution de retargeting qui connaît une très forte 
+    croissance depuis 2 ans. Afin de soutenir cette croissance, Twenga souhaite renforcer les capacités d’analyse de données 
+    du pôle RTB. 
+    En tant que Data Analyst RTB, vous serez le garant de la fiabilité des données étudiées, de la pertinence de leur 
+    interprétation, et du bien-fondé des préconisations faites sur la base de vos analyses. 
+    • Mener des analyses croisées de données complexes provenant de nombreuses sources, internes comme externes, pour 
+    identifier les leviers d’optimisation des performances.
+    • Structurer l’information et proposer des améliorations concrètes ayant un impact immédiat.
+    • Plus largement, utiliser votre connaissance de nos systèmes, pour développer des outils de mesures et des rapports 
+    permettant d’identifier des axes de réflexion et de mettre en place des plans d’optimisations.
+    • Définir et mettre en œuvre un ensemble d'analyses et de tests pour nourrir les réflexions stratégiques et la roadmap 
+    produit.
+    Moyens mis en œuvre
+    • Compréhension, analyse du data model actuel et proposition d'améliorations de l'existant.
+    • Modélisation des différentes métriques du système, taux de clics, taux de conversion etc…
+    • Suivi d'AB testing.
+
+- title: Data Analyst
+  company: Sept Lieues SAS
+  contract: CDI
+  salary: 45000
+  location: Paris, France
+  description: >
+    L'entreprisePure player positionné dans le domaine du e- commerce.Acteur incontournable européen, cette plateforme 
+    commerciale génère un fort traffic et bénéficie d'une forte visibilité auprès des consommateurs.En complément de la 
+    plateforme de Ventes, les équipes de R&D conçoivent des solutions de marketing et de tracking / targeting.Le posteSous 
+    la responsabilités du directeur commercial, vous serez amené à collaborer au quotidien avec les équipes commerciales, 
+    de développement informatique ainsi qu'avec le management.Vous utiliserez les techniques statistiques et les outils 
+    informatiques spécialisés afin d'organiser, de synthétiser et de traduire les informations dont l'entreprise à besoin 
+    pour faciliter les prises de décision.- Vous accompagnez les équipes commerciales pour concevoir de nouvelles 
+    propositions ou analyser les projets déjà lancés - Vous conseillez les équipes marketing basé sur vos analyses- Vous 
+    assurez la qualités et la fiabilité des données - Vous effectuez des reporting adaptés à vos interlocuteurs
+  url: http://www.actu-cv.com/consult.php?an=OF5732240&utm_source=indeed&utm_medium=xml&utm_campaign=flux_xml&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed
+  
+- title: Data Analyst H/F
+  company: Des Systèmes et des Hommes
+  contract: CDI
+  location: Paris, France
+  description: >
+    Rejoignez l’aventure d’une Great Place to Work 2015 !
+    Des Systèmes et des Hommes est une Société de Conseil Informatique de 110 collaborateurs sur Paris, qui accompagne 
+    ses clients dans la définition, le pilotage, le cadrage et l’implémentation de projets autour des systèmes d’information. 
+    S&H, c'est 3 entités
+    - IT Consulting, spécialisée dans le déploiement d’ERP/SaaS RH et Finance, de solutions BI, web.
+    - Business Consulting, proposant une offre de conseil et AMOA autour des outils de Finance et Comptabilité
+    - Talentys, Leader dans le conseil RH et SIRH
+    Notre Job, Data Analyst H/F
+    S&H vous propose de rejoindre son pôle IT Consulting.
+    Vous prendrez part à un important projet SIRH en phase de déploiement pour un Grand Groupe International 
+    (+50 000 collab. Présent dans 100 pays). Vous serez garant de l’amélioration de la qualité et de l’utilisation des 
+    données du SIRH.
+    En collaboration avec le Directeur de programme, vous gérerez et organiserez les données pour en garantir sa diffusion, 
+    sa cohérence et sa qualité. Vous communiquerez avec les autres acteurs du projet pour trouver des corrections pérennes 
+    aux erreurs pouvant être rencontrées dans une logique d’amélioration du data quality.Vous proposerez des indicateurs 
+    pertinents et intéressants permettant une meilleure exploitation des données.
+    Mettez vos talents au service d’S&H 
+    Vous justifiez d’une expérience significative sur un poste similaire. Vous avez déjà participé à un projet SIRH.
+    Le SQL n’a plus de secret pour vous. Anglais courant.
+    S&H et vous ?
+    Rejoindre S&H, c'est miser sur une société, partenaire de nombreux grand éditeur, et qui justifie de près de 20 années 
+    d'expérience minimum sur la conduite de projet Internationaux.
+    S&H, c’est aussi une vie d’entreprise !
+    Il est parfois difficile en tant que prestataire de se sentir appartenir à son entreprise. C’est dans ses conditions 
+    que nous prônons toute initiative nous permettant de nous réunir, au  travers de nos soirées mensuelles dans Paris 
+    (Open Bar), des réunions Corporate Trimestrielles, des séminaires, atelier de capitalisation interne (REX),activités 
+    sportives (S&H dispose de son équipe de Football interne !). #GreatPlaceToWork
+    Les 5 raisons de devenir un S&H.
+    Prendre part à une aventure humaine inédite en société de services informatiques
+    Rejoindre une équipe Agile ayant à cœur de bâtir en équipe et toujours en équipe
+    Construire une relation pérenne et contribuer au succès de votre client
+    Interagir dans la vie interne de l’entreprise
+    Faire la différence demain
+  url: https://cadres.apec.fr/offres-emploi-cadres/0_0_0_161051389W__________offre-d-emploi-data-analyst-h-f.html?numIdOffre=161051389W
+...
