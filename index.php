@@ -14,7 +14,7 @@ $yaml			 = yaml_parse($yamlFile);
 				margin: 0;
 				padding: 0;
 			}
-			#maps
+			#map
 			{
 				height:	80vh;
 				width: 80vw;
