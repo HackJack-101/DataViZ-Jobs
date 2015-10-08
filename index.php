@@ -8,7 +8,7 @@ $yaml			 = yaml_parse($yamlFile);
 	<body>
 		<h1>DataViZ Jobs</h1>
 		<?php
-		foreach ($yaml as $y)
+		foreach ($yaml['items'] as $y)
 		{
 			?>
 			<div class="job">
