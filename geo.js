@@ -19,8 +19,7 @@ window.addEventListener('load', function () {
 	{
 		var title = jobs[i].getElementsByClassName('title')[0].innerHTML;
 		var address = jobs[i].getElementsByClassName('location')[0].innerHTML;
-		var description = jobs[i].getElementsByClassName('description')[0].innerHTML;
-		addMarker(address, title, description)
+		addMarker(address, title, "");
 	}
 });
 
