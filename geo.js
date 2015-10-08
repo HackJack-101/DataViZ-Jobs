@@ -8,14 +8,14 @@ window.addEventListener('load', function () {
 	var optionsGmaps = {
 		center: centerpos,
 		mapTypeId: google.maps.MapTypeId.ROADMAP,
-		zoom: 12
+		zoom: 8
 	};
 	window.map = new google.maps.Map(document.getElementById("map"), optionsGmaps);
 	window.geocoder = new google.maps.Geocoder();
 	window.geomarkers = new Array();
 
 	var jobs = document.getElementsByClassName('job');
-	for (var i = 0; i < 2; i++)
+	for (var i = 0; i < jobs.length; i++)
 	{
 		var title = jobs[i].getElementsByClassName('title')[0].innerHTML;
 		var address = jobs[i].getElementsByClassName('location')[0].innerHTML;
@@ -24,7 +24,7 @@ window.addEventListener('load', function () {
 	}
 });
 
-function addMarker(latlng, titleContent, htmlContent) {
+function addMarker(latlng, title, content) {
 	var marker = new google.maps.Marker({
 		position: latlng,
 		map: window.map,
@@ -37,8 +37,9 @@ function addMarker(latlng, titleContent, htmlContent) {
 		if (window.infoWindow)
 			window.infoWindow.close();
 		window.infoWindow = new google.maps.InfoWindow({
-			content: htmlContent
+			content: "<h1>" + title + "</h1><div>" + content + "</div>"
 		});
+		window.infoWindow.open(window.map, marker);
 		window.map.panTo(marker.position);
 		if (window.map.getZoom() < 13)
 			window.map.setZoom(13);
