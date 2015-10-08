@@ -9,11 +9,6 @@ $yaml			 = yaml_parse($yamlFile);
 		<title>DataViZ</title>
 		<script type="text/javascript" src="geo.js"></script>
 		<style>
-			*
-			{
-				margin: 0;
-				padding: 0;
-			}
 			#map
 			{
 				height:	80vh;

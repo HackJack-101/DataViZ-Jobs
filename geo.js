@@ -13,14 +13,15 @@ window.addEventListener('load', function () {
 	window.map = new google.maps.Map(document.getElementById("map"), optionsGmaps);
 	window.geocoder = new google.maps.Geocoder();
 	window.geomarkers = new Array();
-//
-//	var jobs = document.getElementsByClassName('job');
-//	for (var i = 0; i < jobs.length; i++)
-//	{
-//		var title = jobs[i].getElementsByClassName('title')[0].innerHTML;
-//		var address = jobs[i].getElementsByClassName('location')[0].innerHTML;
-//		addMarker(address, title, "");
-//	}
+
+	var jobs = document.getElementsByClassName('job');
+	for (var i = 0; i < 2; i++)
+	{
+		var title = jobs[i].getElementsByClassName('title')[0].innerHTML;
+		var address = jobs[i].getElementsByClassName('location')[0].innerHTML;
+		var description = jobs[i].getElementsByClassName('description')[0].innerHTML;
+		codeAddress(address, title, description);
+	}
 });
 
 function addMarker(latlng, titleContent, htmlContent) {
