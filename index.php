@@ -8,6 +8,19 @@ $yaml			 = yaml_parse($yamlFile);
 		<meta charset="utf-8">
 		<title>DataViZ</title>
 		<script type="text/javascript" src="geo.js"></script>
+		<style>
+			*
+			{
+				margin: 0;
+				padding: 0;
+			}
+			#maps
+			{
+				height:	80vh;
+				width: 80vw;
+				margin: auto;
+			}
+		</style>
 	</head>
 	<body>
 		<h1>DataViZ Jobs</h1>
