@@ -4,7 +4,10 @@ $yamlFile		 = file_get_contents($yamlFilename);
 $yaml			 = yaml_parse($yamlFile);
 ?>
 <html>
-	<head></head>
+	<head>
+		<meta charset="utf-8">
+		<title>DataViZ</title>
+	</head>
 	<body>
 		<h1>DataViZ Jobs</h1>
 		<?php
@@ -12,15 +15,19 @@ $yaml			 = yaml_parse($yamlFile);
 		{
 			?>
 			<div class="job">
-				<?php
-				foreach ($y as $key => $value)
-				{
-					?>
-					<h3><?php echo ucwords($key); ?></h3>
-					<span class="<?php echo $key; ?>"><<?php echo $value; ?></span>
+				<ul>
 					<?php
-				}
-				?>
+					foreach ($y as $key => $value)
+					{
+						?>
+						<li>
+							<b><?php echo ucwords($key); ?> : </b>
+							<span class="<?php echo $key; ?>"><?php echo $value; ?></span>
+						</li>
+						<?php
+					}
+					?>
+				</ul>
 			</div>
 			<?php
 		}
