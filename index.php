@@ -1,13 +1,29 @@
 <?php
-$yamlFilename = './jobs.yaml';
-$yamlFile = file_get_contents($yamlFilename);
-$yaml = yaml_parse($yamlFile);
+$yamlFilename	 = './jobs.yaml';
+$yamlFile		 = file_get_contents($yamlFilename);
+$yaml			 = yaml_parse($yamlFile);
 ?>
 <html>
 	<head></head>
 	<body>
-		<pre>
-			<?php print_r($yaml); ?>
-		</pre>
+		<h1>DataViZ Jobs</h1>
+		<?php
+		foreach ($yaml as $y)
+		{
+			?>
+			<div class="job">
+				<?php
+				foreach ($k as $key => $value)
+				{
+					?>
+					<h3><?php echo ucwords($key); ?></h3>
+					<span class="<?php echo $key; ?>"><<?php echo $value; ?></span>
+					<?php
+				}
+				?>
+			</div>
+			<?php
+		}
+		?>
 	</body>
 </html>
