@@ -7,9 +7,12 @@ $yaml			 = yaml_parse($yamlFile);
 	<head>
 		<meta charset="utf-8">
 		<title>DataViZ</title>
+		<script type="application/javascript" src="geo.js"></script>
+		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
 	</head>
 	<body>
 		<h1>DataViZ Jobs</h1>
+		<div id="map"></div>
 		<?php
 		foreach ($yaml['items'] as $y)
 		{
