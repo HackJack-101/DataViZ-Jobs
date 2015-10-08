@@ -1,7 +1,8 @@
-function addHTMLContent(text) {
-	document.getElementById('ajaxContent').innerHTML = text
-}
-
+window.map = null;
+window.infoWindow = null;
+window.geocoder = null;
+window.geomarkers = null;
+	
 window.addEventListener('load', function () {
 	var centerpos = new google.maps.LatLng(48.856578, 2.351828);
 	var optionsGmaps = {
@@ -10,17 +11,16 @@ window.addEventListener('load', function () {
 		zoom: 12
 	};
 	window.map = new google.maps.Map(document.getElementById("map"), optionsGmaps);
-	window.infoWindow = null;
 	window.geocoder = new google.maps.Geocoder();
 	window.geomarkers = new Array();
-
-	var jobs = document.getElementsByClassName('job');
-	for (var i = 0; i < jobs.length; i++)
-	{
-		var title = jobs[i].getElementsByClassName('title')[0].innerHTML;
-		var address = jobs[i].getElementsByClassName('location')[0].innerHTML;
-		addMarker(address, title, "");
-	}
+//
+//	var jobs = document.getElementsByClassName('job');
+//	for (var i = 0; i < jobs.length; i++)
+//	{
+//		var title = jobs[i].getElementsByClassName('title')[0].innerHTML;
+//		var address = jobs[i].getElementsByClassName('location')[0].innerHTML;
+//		addMarker(address, title, "");
+//	}
 });
 
 function addMarker(latlng, titleContent, htmlContent) {
