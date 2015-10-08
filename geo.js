@@ -28,7 +28,7 @@ function addMarker(latlng, title, content) {
 	var marker = new google.maps.Marker({
 		position: latlng,
 		map: window.map,
-		title: titleContent,
+		title: title,
 		animation: google.maps.Animation.DROP
 	});
 	marker.setClickable(true);
