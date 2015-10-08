@@ -13,7 +13,7 @@ $yaml			 = yaml_parse($yamlFile);
 			?>
 			<div class="job">
 				<?php
-				foreach ($k as $key => $value)
+				foreach ($y as $key => $value)
 				{
 					?>
 					<h3><?php echo ucwords($key); ?></h3>
