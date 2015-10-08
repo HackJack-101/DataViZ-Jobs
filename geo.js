@@ -50,7 +50,7 @@ function codeAddress(address, title, content) {
 		'address': address
 	}, function (results, status) {
 		if (status === google.maps.GeocoderStatus.OK) {
-			addMarker(new google.maps.LatLng(results[0].geometry.location.lat(), results[0].geometry.location.lng()), title, content);
+			console.log(results);
 		} else
 			console.log("La géolocalisation de votre adresse n'a pu etre effectue pour la raison suivante: " + status)
 	});

@@ -7,8 +7,7 @@ $yaml			 = yaml_parse($yamlFile);
 	<head>
 		<meta charset="utf-8">
 		<title>DataViZ</title>
-		<script type="application/javascript" src="geo.js"></script>
-		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+		<script type="text/javascript" src="geo.js"></script>
 	</head>
 	<body>
 		<h1>DataViZ Jobs</h1>
@@ -35,5 +34,7 @@ $yaml			 = yaml_parse($yamlFile);
 			<?php
 		}
 		?>
+
+		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
 	</body>
 </html>
