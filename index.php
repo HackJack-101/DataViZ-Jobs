@@ -32,7 +32,7 @@ $yaml			 = yaml_parse($yamlFile);
 						?>
 						<li>
 							<b><?php echo ucwords($key); ?> : </b>
-							<span class="<?php echo $key; ?>"><?php echo substr($value,128); ?></span>
+							<span class="<?php echo $key; ?>"><?php echo substr($value, 0, 128); ?></span>
 						</li>
 						<?php
 					}
