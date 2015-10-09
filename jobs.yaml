@@ -4,14 +4,12 @@ items:
   company: DAVIDSON
   contract: CDI
   location: Ile-de-France
-  description: "Dans une démarche de développement de l'activité Big Data chez les clients grands comptes de Davidson en Ile de France, du secteur de l'énergie, de la finance ou des télécommunications, Davidson recherche, un ingénieur Data scientist H/F pour travailler sur des problématiques à forte valeur ajoutée. Vous prenez en charges les taches suivantes : Penser l’architecture de la solution Big Data transverse à l’entreprise Mettre en place la solution Big Data de bout en bout Penser et développer les algorithmes en rapport avec les demandes métiers	ENVIRONNEMENT TECHNIQUE : R, Python, Spark"
   url : http://www.amplement.fr/jobs/ingenieur-data-scientist-h-f/55cb5c09b7d04
 
 - title: Data Scientist(e) Expérimenté(e) - H/F
   company: Creative Data
   contract: CDI
   location: 72 Rue de la République, 76140 Le Petit-Quevilly
-  description: "Nous recherchons un(e) data scientist(e) expérimenté(e) pour rejoindre notre équipe service. Vous travaillerez au sein d'une équipe pluridisciplinaire sur la réalisation de projets innovants.Vous aurez un rôle d'accompagnement, de mentoring et d'expertise au sein de nos projets. Votre mission est de concevoir avec l'équipe des algorithmes de prédiction, classification et d'analyse de données non structurées.Vous aurez la possibilité de collaborer avec les laboratoires de recherche sur des projets ou pour échanger entre pairs."
   url : https://www.chooseyourboss.com/candidates/offers/data-scientist-e-experimente-e-h-f
 
 - title: Data Analyst - H/F
@@ -19,211 +17,69 @@ items:
   contract: CDI
   salary: 35000
   location: 68 rue d'Hauteville, 75010 Paris, France
-  description: > 
-    En charge d'un portefeuille de clients, vous aurez pour responsabilité d'accompagner et de suivre le 
-    déploiement de nos solutions. Pour cela, vous devrez comprendre les données métier, les analyser à l'aide de nos outils, 
-    et utiliser ces informations pour la mise en œuvre de recommandations et de plans d'action.
   url: https://www.chooseyourboss.com/candidates/offers/data-analyst-h-f?utm_campaign=annonces&utm_medium=agregateur&utm_source=indeed&utm_content=prem_ind
 
 - title: Data Mining Analyst
-  company: Customer Value
+  company: Deezer
   location: 12 rue d'Athènes, 75009 Paris, France
-  description: >
-    Deezer is very advanced in using the vast amount of data it generates to improve the service to the customers and
-    create an awesome, very personalized experience. A state of the art Hadoop plate form has been developed to process 
-    that wealth of data. 
-    Streaming services (like Deezer) are a revolution in the music industry as, for the first time, the success of an artist 
-    can be analyzed even before it starts selling albums (on iTunes for instance). This unique situation creates a thirst 
-    for data that is unparalleled in the music industry history. As a consequence, Deezer also heavily invests in new 
-    tools (Tableau, SAS Server) to make sure the data fuels absolutely any decision making process, either for Deezer, 
-    for our partners (Carriers like Orange in France) or record companies (like Universal / Sony / Warner).
-    The data mining team has a double role of
-    - Structuring / modeling data in a data warehouse to make data available to everyone inside the company and outside 
-    (carriers / record companies). For the moment, only few data marts have been created so far. It is really the beginning 
-    of the adventure!
-    - Analyzing deeply the data to answer all the questions related to artist performance / subscriber base behavior / 
-    campaign performance / carrier contracts performance / public relations and increase Deezer efficiency in the market
     
 - title: H/F Data Analyst
   company: Sept Lieues
   contract: CDI
   salary: 45000
   location: 148 rue de l'Université, 75007 Paris, France
-  description: >
-    Sous la responsabilités du directeur commercial, vous serez amené à collaborer au quotidien avec les équipes commerciales , de développement informatique ainsi qu'avec le management.
-    Vous utiliserez les techniques statistiques et les outils informatiques spécialisés afin d'organiser, de synthétiser et de traduire les informations dont l'entreprise à besoin pour faciliter les prises de décision.
-    - Vous accompagnez les équipes commerciales pour concevoir de nouvelles propositions ou analyser les projets déjà lancés 
-    - Vous conseillez les équipes marketing basé sur vos analyses
-    - Vous assurez la qualités et la fiabilité des données 
-    - Vous effectuez des reporting adaptés à vos interlocuteurs
 
 - title: Data Analyst RTB H/F
   company: Twenga
   contract: CDI
   location: 38 Rue du Sentier, 75002 Paris, France
-  description: >
-    C’est avec cette ambition que Twenga a récemment élargie son offre en développant un DSP interne afin d’optimiser les 
-    campagnes de milliers d’annonceurs inscrits. Twenga propose ainsi une solution de retargeting qui connaît une très forte 
-    croissance depuis 2 ans. Afin de soutenir cette croissance, Twenga souhaite renforcer les capacités d’analyse de données 
-    du pôle RTB. 
-    En tant que Data Analyst RTB, vous serez le garant de la fiabilité des données étudiées, de la pertinence de leur 
-    interprétation, et du bien-fondé des préconisations faites sur la base de vos analyses. 
-    • Mener des analyses croisées de données complexes provenant de nombreuses sources, internes comme externes, pour 
-    identifier les leviers d’optimisation des performances.
-    • Structurer l’information et proposer des améliorations concrètes ayant un impact immédiat.
-    • Plus largement, utiliser votre connaissance de nos systèmes, pour développer des outils de mesures et des rapports 
-    permettant d’identifier des axes de réflexion et de mettre en place des plans d’optimisations.
-    • Définir et mettre en œuvre un ensemble d'analyses et de tests pour nourrir les réflexions stratégiques et la roadmap 
-    produit.
-    Moyens mis en œuvre
-    • Compréhension, analyse du data model actuel et proposition d'améliorations de l'existant.
-    • Modélisation des différentes métriques du système, taux de clics, taux de conversion etc…
-    • Suivi d'AB testing.
-
-- title: Data Analyst
-  company: Sept Lieues SAS
-  contract: CDI
-  salary: 45000
-  location: 148 rue de l'Université, 75007 Paris, France
-  description: >
-    L'entreprise Pure player positionné dans le domaine du e-commerce. Acteur incontournable européen, cette plateforme 
-    commerciale génère un fort traffic et bénéficie d'une forte visibilité auprès des consommateurs.En complément de la 
-    plateforme de Ventes, les équipes de R&D conçoivent des solutions de marketing et de tracking / targeting.Le posteSous 
-    la responsabilités du directeur commercial, vous serez amené à collaborer au quotidien avec les équipes commerciales, 
-    de développement informatique ainsi qu'avec le management.Vous utiliserez les techniques statistiques et les outils 
-    informatiques spécialisés afin d'organiser, de synthétiser et de traduire les informations dont l'entreprise à besoin 
-    pour faciliter les prises de décision.- Vous accompagnez les équipes commerciales pour concevoir de nouvelles 
-    propositions ou analyser les projets déjà lancés - Vous conseillez les équipes marketing basé sur vos analyses- Vous 
-    assurez la qualités et la fiabilité des données - Vous effectuez des reporting adaptés à vos interlocuteurs
-  url: http://www.actu-cv.com/consult.php?an=OF5732240&utm_source=indeed&utm_medium=xml&utm_campaign=flux_xml&utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed
-  
-- title: Data Analyst H/F
-  company: Des Systèmes et des Hommes
-  contract: CDI
-  location: 25 rue de Laubeuge, 75009 Paris, France
-  description: >
-    Rejoignez l’aventure d’une Great Place to Work 2015 !
-    Des Systèmes et des Hommes est une Société de Conseil Informatique de 110 collaborateurs sur Paris, qui accompagne 
-    ses clients dans la définition, le pilotage, le cadrage et l’implémentation de projets autour des systèmes d’information. 
-    S&H, c'est 3 entités
-    - IT Consulting, spécialisée dans le déploiement d’ERP/SaaS RH et Finance, de solutions BI, web.
-    - Business Consulting, proposant une offre de conseil et AMOA autour des outils de Finance et Comptabilité
-    - Talentys, Leader dans le conseil RH et SIRH
-    Notre Job, Data Analyst H/F
-    S&H vous propose de rejoindre son pôle IT Consulting.
-    Vous prendrez part à un important projet SIRH en phase de déploiement pour un Grand Groupe International 
-    (+50 000 collab. Présent dans 100 pays). Vous serez garant de l’amélioration de la qualité et de l’utilisation des 
-    données du SIRH.
-    En collaboration avec le Directeur de programme, vous gérerez et organiserez les données pour en garantir sa diffusion, 
-    sa cohérence et sa qualité. Vous communiquerez avec les autres acteurs du projet pour trouver des corrections pérennes 
-    aux erreurs pouvant être rencontrées dans une logique d’amélioration du data quality.Vous proposerez des indicateurs 
-    pertinents et intéressants permettant une meilleure exploitation des données.
-    Mettez vos talents au service d’S&H 
-    Vous justifiez d’une expérience significative sur un poste similaire. Vous avez déjà participé à un projet SIRH.
-    Le SQL n’a plus de secret pour vous. Anglais courant.
-    S&H et vous ?
-    Rejoindre S&H, c'est miser sur une société, partenaire de nombreux grand éditeur, et qui justifie de près de 20 années 
-    d'expérience minimum sur la conduite de projet Internationaux.
-    S&H, c’est aussi une vie d’entreprise !
-    Il est parfois difficile en tant que prestataire de se sentir appartenir à son entreprise. C’est dans ses conditions 
-    que nous prônons toute initiative nous permettant de nous réunir, au  travers de nos soirées mensuelles dans Paris 
-    (Open Bar), des réunions Corporate Trimestrielles, des séminaires, atelier de capitalisation interne (REX),activités 
-    sportives (S&H dispose de son équipe de Football interne !). #GreatPlaceToWork
-    Les 5 raisons de devenir un S&H.
-    Prendre part à une aventure humaine inédite en société de services informatiques
-    Rejoindre une équipe Agile ayant à cœur de bâtir en équipe et toujours en équipe
-    Construire une relation pérenne et contribuer au succès de votre client
-    Interagir dans la vie interne de l’entreprise
-    Faire la différence demain
   url: https://cadres.apec.fr/offres-emploi-cadres/0_0_0_161051389W__________offre-d-emploi-data-analyst-h-f.html?numIdOffre=161051389W
 
 - title: Data Analyst H/F
   company: Canal TP
   contract: CDI
   location: 20 rue Hector Malot, 75002 Paris, France
-  description: >
-    Leader de l’information-voyageur en France et filiale numérique du groupe Keolis, CANAL TP est une entreprise jeune 
-    et dynamique. Nous éditons des solutions de mobilité intelligentes au service des voyageurs et des acteurs du transport 
-    depuis 2001. Nous sommes une équipe de 80 personnes, passionnées par les nouvelles technologies et la mobilité au sens
-    large. Animes par un même objectif: promouvoir la mobilité durable en proposant pour chaque voyageur la solution la 
-    plus adaptée à ses besoins. C’est ce que nous appelons la « Responsive locomotion ». Acteurs engagés dans une démarche 
-    d’innovation ouverte (OpenData, OpenService, OpenSource), nous accompagnons les projets innovants, grâce à notre API 
-    navitia.io qui permet de créer des services intégrant la mobilité des voyageurs. Nous aimons innover, travailler en 
-    équipe et faire bouger les lignes.
-    Missions 
-    Garant de la qualité des données qui constituent l'offre de transport d'un système d'information voyageur, 
-    vous définissez, organisez et gérez les processus d'acquisition et de mise à jour des données, de la phase de 
-    conception du référentiel jusqu'à la mise en ligne du système d’information. Interlocuteur privilégié des 
-    partenaires du projet, vous êtes garant de leur satisfaction.
-    Vos principales missions :
-    • Garantir le respect des délais et des coûts définis ainsi que de la qualité finale des données
-    • Organiser  les réunions de lancement avec les différents partenaires des projets,
-    • Définir et valider les méthodes d'acquisition de données avec les partenaires
-    • Organiser la formation aux outils et accompagner les partenaires tout au long du projet, 
-    • Participer activement à la vie d'équipe et piloter des missions transverses d'amélioration continue des outils, 
-    méthodes, process. 
-    Profil
-    De formation supérieure, vous justifiez d’une première expérience dans la gestion de projet informatique, web ou 
-    multimédia au cours de laquelle vous avez acquis une solide maîtrise des outils et des méthodes de pilotage de projets. 
-    Vous avez un intérêt certain pour les sujets suivants : mobilité, cartographie, transports, OpenData et OpenService.
-    Dynamique, autonome, souriant, vous êtes pragmatique et savez apporter des solutions simples pour atteindre les objectifs 
-    fixés. Sociable et diplomate, force de proposition, vous démontrez des capacités de travail en équipe et êtes prêts à 
-    vous investir dans un monde en perpétuelle évolution.
-    url: https://career5.successfactors.eu/career?company=SIRHP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=fr_FR&career_job_req_id=17282&jobPipeline=Indeed
+  url: https://career5.successfactors.eu/career?company=SIRHP&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=fr_FR&career_job_req_id=17282&jobPipeline=Indeed
 
 - title: Data Analyst H/F
   company: Clementine
   contract: CDI
   location: Ile-de-France
-  description: >
-    Société
-    Clémentine, leader du Conseil en Recrutement spécialisé dans le Web/Digital et l’IT, recrute pour son client un(e) Data 
-    Analyst H/F.
-    Notre client est une start-up innovante dans le secteur du média et de la publicité, principalement dans les technologies 
-    permettant de mesurer l’efficacité des campagnes publicitaires pour de grands clients. Filiale d’une agence média 
-    indépendante, il a développé l’outil le plus performant actuellement en France, capable de mesurer l’impact des campagnes 
-    publicitaires sur les fréquentations sur le Web.
-    Le conseil fourni repose sur la technologie et diverses expertises en matière de traitement de données.
-    Fort de son succès qui lui vaut la fidélité de grands comptes, il continue d’investir sur la technologie et sur 
-    l’expertise pour affiner cette connaissance et mieux piloter les campagnes télévisées de ses clients.
-    Pour consolider sa croissance, il souhaite offrir un service très en amont en accompagnant ses clients dans la 
-    compréhension de ce qu’offre leurs données avant même leur analyse et leur traitement algorithmique. Il recherche un 
-    chargé d’études Data ; un data Analyst.
-    Vous êtes un passionné de Data Intelligence ? Vous aimez jongler avec les chiffres et les traduire en langage métier ?
-    Big Data, Machine Learning, révolution numérique, ROI sont des mots qui vous parlent ? Vous êtes motivé à l'idée de 
-    rejoindre une société en pleine croissance, à vocation internationale ? Cet offre d’emploi est pour vous !
-    Mission
-    Ayant une forte dimension conseil, vous êtes en prime face au client pour lui offrir la visibilité et la valeur 
-    ajoutée qu’il attend. Votre rôle est autant dans la synthétisation des données que dans leur présentation.
-    Travaillant au cœur de l'entreprise sous l'autorité du Directeur Commercial & Marketing et, fort de votre 
-    parfaite connaissance métier, votre mission consistera donc à :
-    Extraire, analyser et comprendre les données en terme métier
-    Vérifier les données, garantir leur conformité et leur pertinence dans le domaine
-    Expliciter les résultats des analyses aux différents interlocuteurs internes et établir des recommandations
-    Etablir les reportings Data ad hoc et mettre en place des tableaux de bord de suivi
-    Contribuer au développement de méthodes et d’outils pour industrialiser les process de reporting
-    Réaliser des rapports professionnels de présentation des résultats à destination de l'interne mais également des 
-    clients (pure players, grands comptes) à partir des informations pertinentes que vous aurez synthétisées
-    Prendre en charge toute étude ou projet se rapportant à l'activité opérationnelle
-    Assurer un suivi de toutes les actions mises en place (reportings, axe et projets d’améliorations…)
-    Travailler en collaboration avec les équipes internes techniques, commerciales
-    Etre force de proposition vis-à-vis de sa hiérarchie
-    Nous recherchons aujourd’hui pour notre client une personne dotée d'un fort esprit d'analyse et de synthèse 
-    capable de s'adresser à tout type d'interlocuteur, en traduisant en termes métier des analyses techniques complexes.
-    Profil
-    De formation ingénieur (bac+5) ou école de commerce complété d'un cursus informatique, vous êtes doté de 
-    compétences statistiques ou mathématiques enrichis d'une bonne culture web, numérique.
-    Compétences:
-    Vous avez une première expérience confirmée sur cette fonction dans le monde digital ou en cabinet de conseil 
-    en stratégie ou solutions BI.
-    Vous portez une attention particulière à la qualité des livrables et aux besoins de compréhension des clients. 
-    Vous avez un esprit structuré, analytique, et êtes capable d'appréhender des analyses complexes pour en tirer des 
-    enseignements pertinents et intelligibles pour vos interlocuteurs. Vous avez à ce titre des compétences éprouvées en 
-    analyse de données et production de rapports de synthèse.
-    Vous êtes passés maître des outils offices (excel, powerpoint) et maîtrisez les outils spécifiques d'analyse et de 
-    data mining ou big data.
-    Vous avez une forte appétence pour les technologies et internet. D'une excellente communication orale et écrite, 
-    vous êtes à l'écoute et avez le sens des relations humaines.
-    You are fluent in both spoken and written English. Esprit start-up garanti !
   url: http://www.clementine.jobs/blog/offres-emploi/data-analyst-hf/
+  
+- title: Intégrateur - Administrateur Big Data H/F
+  company: SII Rennes
+  contract: CDI
+  location: 3 Av. de Belle Fontaine, 35510 Cesson-Sévigné
+  url: http://www.ouestjob.com/emplois/integrateur-administrateur-big-data-h-f-742983.html
+  
+- title: Data Scientist - R&D informatique h/f
+  company: Selescope
+  contract: CDI
+  location: Boulogne Billancourt
+  url: http://www.cadremploi.fr/emploi/detail_offre?offreId=01502615618
+  
+- title: Expert Data Scientist - H/F
+  company: SNIPS
+  contract: CDI
+  location: 18 rue Saint Marc, 75002 Paris, France
+  url: https://www.chooseyourboss.com/candidates/offers/expert-data-scientist-h-f
+  
+- title: Data Scientist H/F
+  company: OptimData
+  contract: CDI
+  location: 21 Rue Leriche, 75015 Paris, France
+  url: https://www.chooseyourboss.com/candidates/offers/data-scientist-h-f-9e1271a1-625d-410a-babc-9523c2a33558
+  
+- title: Data Scientist / Data management Engineer - H/F
+  company: RadiumOne
+  contract: CDI
+  location: 112 Ter Rue Cardinet, 75017 Paris, France
+  url: https://www.chooseyourboss.com/candidates/offers/data-scientist-h-f-9e1271a1-625d-410a-babc-9523c2a33558
+  
+- title: Data scientist - H/F
+  company: Tinyclues
+  contract: CDI
+  location: 1 Rue du Mail, 75002 Paris, France
+  url: https://www.chooseyourboss.com/candidates/offers/data-scientist-h-f-9e1271a1-625d-410a-babc-9523c2a33558
 ...
