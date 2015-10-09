@@ -18,7 +18,7 @@ items:
   company: ioSquare
   contract: CDI
   salary: 35000
-  location: 68 rue d'Hauteville 75010 Paris
+  location: 68 rue d'Hauteville, 75010 Paris, France
   description: > 
     En charge d'un portefeuille de clients, vous aurez pour responsabilité d'accompagner et de suivre le 
     déploiement de nos solutions. Pour cela, vous devrez comprendre les données métier, les analyser à l'aide de nos outils, 
@@ -27,7 +27,7 @@ items:
 
 - title: Data Mining Analyst
   company: Customer Value
-  location: Paris, France
+  location: 12 rue d'Athènes, 75009 Paris, France
   description: >
     Deezer is very advanced in using the vast amount of data it generates to improve the service to the customers and
     create an awesome, very personalized experience. A state of the art Hadoop plate form has been developed to process 
@@ -48,7 +48,7 @@ items:
   company: Sept Lieues
   contract: CDI
   salary: 45000
-  location: Paris, France
+  location: 148 rue de l'Université, 75007 Paris, France
   description: >
     Sous la responsabilités du directeur commercial, vous serez amené à collaborer au quotidien avec les équipes commerciales , de développement informatique ainsi qu'avec le management.
     Vous utiliserez les techniques statistiques et les outils informatiques spécialisés afin d'organiser, de synthétiser et de traduire les informations dont l'entreprise à besoin pour faciliter les prises de décision.
@@ -60,7 +60,7 @@ items:
 - title: Data Analyst RTB H/F
   company: Twenga
   contract: CDI
-  location: 38 Rue du Sentier - 75002 Paris
+  location: 38 Rue du Sentier, 75002 Paris, France
   description: >
     C’est avec cette ambition que Twenga a récemment élargie son offre en développant un DSP interne afin d’optimiser les 
     campagnes de milliers d’annonceurs inscrits. Twenga propose ainsi une solution de retargeting qui connaît une très forte 
@@ -84,9 +84,9 @@ items:
   company: Sept Lieues SAS
   contract: CDI
   salary: 45000
-  location: 148, rue de l'Université - 75007 Paris
+  location: 148 rue de l'Université, 75007 Paris, France
   description: >
-    L'entreprisePure player positionné dans le domaine du e- commerce.Acteur incontournable européen, cette plateforme 
+    L'entreprise Pure player positionné dans le domaine du e-commerce. Acteur incontournable européen, cette plateforme 
     commerciale génère un fort traffic et bénéficie d'une forte visibilité auprès des consommateurs.En complément de la 
     plateforme de Ventes, les équipes de R&D conçoivent des solutions de marketing et de tracking / targeting.Le posteSous 
     la responsabilités du directeur commercial, vous serez amené à collaborer au quotidien avec les équipes commerciales, 
@@ -100,7 +100,7 @@ items:
 - title: Data Analyst H/F
   company: Des Systèmes et des Hommes
   contract: CDI
-  location: Paris, France
+  location: 25 rue de Laubeuge, 75009 Paris, France
   description: >
     Rejoignez l’aventure d’une Great Place to Work 2015 !
     Des Systèmes et des Hommes est une Société de Conseil Informatique de 110 collaborateurs sur Paris, qui accompagne 
@@ -140,7 +140,7 @@ items:
 - title: Data Analyst H/F
   company: Canal TP
   contract: CDI
-  location: Paris, France
+  location: 20 rue Hector Malot, 75002 Paris, France
   description: >
     Leader de l’information-voyageur en France et filiale numérique du groupe Keolis, CANAL TP est une entreprise jeune 
     et dynamique. Nous éditons des solutions de mobilité intelligentes au service des voyageurs et des acteurs du transport 
